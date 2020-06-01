@@ -1,0 +1,4 @@
+http://www.edibleapple.com/2011/10/29/steve-jobs-explains-object-oriented-programming/
+https://en.wikipedia.org/wiki/Object-oriented_programming
+https://en.wikipedia.org/wiki/Procedural_programming
+https://metanit.com/cpp/tutorial/5.1.php
